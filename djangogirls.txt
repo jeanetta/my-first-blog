@@ -1,0 +1,5 @@
+virtualni prostredi - kvuli ruznym oddelenym projektum - moznost instalovat si diky virtualenv ruzna prostredi, programy pro ruzne projekty
+
+pip freeze - vypise co mam naistalovane v konkretnim virtualnim prostredi
+
+git hub - usefull pro tymovou praci a ukladani predchozich verzi a zmen, dulezity nastroj, dobry pouzivat, dobry ukladat prubezne!
